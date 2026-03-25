@@ -29,7 +29,7 @@ This project surfaces **adoption gaps**, **geographic hotspots**, and **income-l
 
 ## Quick links
 
-- **Full report:** `reports/Sustainable_Upgrade_Patterns_LA.pdf`
+- [Full report](reports/Sustainable_Upgrade_Patterns_LA.pdf)
 
 ***
 
