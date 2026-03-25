@@ -29,10 +29,7 @@ This project surfaces **adoption gaps**, **geographic hotspots**, and **income-l
 
 ## Quick links
 
-- **Dashboard:** `app/streamlit_app.py` (run locally)
 - **Full report:** `reports/Sustainable_Upgrade_Patterns_LA.pdf`
-- **Notebook:** `notebooks/01_green_permits_eda.ipynb`
-- **Figures:** `assets/figures/` (charts + maps)
 
 ***
 
